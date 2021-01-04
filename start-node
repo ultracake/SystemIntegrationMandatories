@@ -1,0 +1,4 @@
+alacritty -e node NemID_UserGenerator/nemid_usergenerator.js &
+alacritty -e node NemID_PasswordGenerator/nemid_passwordGenerator.js &
+alacritty -e node NemID_ESB/esb_mock.js &
+alacritty -e node NemID_CodeGenerator/nemid_codeGenerator.js
