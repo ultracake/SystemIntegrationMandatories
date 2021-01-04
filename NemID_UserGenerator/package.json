@@ -1,0 +1,25 @@
+{
+  "name": "nemid_usergenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nemid_usergenerator.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ultracake/SystemIntegrationMandatories.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ultracake/SystemIntegrationMandatories/issues"
+  },
+  "homepage": "https://github.com/ultracake/SystemIntegrationMandatories#readme"
+}
