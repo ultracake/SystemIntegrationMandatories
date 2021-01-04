@@ -30,10 +30,10 @@ To install these packages run this command: npm install express axios express-xm
 
 To run node.js files write in terminal: node node.js 	
 - NodeJS files:
-       - nemid_esb
-       - nemid_CodeGenerator
-       - nemid_PasswordGenerator
-       - nemid_UserGenerator
+	- nemid_esb
+	- nemid_CodeGenerator
+	- nemid_PasswordGenerator
+	- nemid_UserGenerator
        
 To run python.py files write in terminal: "python python.py" or "py python.py"
 - Python files:
