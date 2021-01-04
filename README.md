@@ -41,8 +41,8 @@ To run python.py files write in terminal: "python python.py" or "py python.py"
 	- Legacy
 	
 Insert user exampel:
-	- When you want to create an user/client to the database use the client.py script.
-	- Here you will met with simpel text UI in the Terminal where you can fill the userinfo.
-	- Then use the legacy.py to write to the database.
-	- You can open the database and view the table list to see if the user is there with his new CPR number.
+- When you want to create an user/client to the database use the client.py script.
+- Here you will met with simpel text UI in the Terminal where you can fill the userinfo.
+- Then use the legacy.py to write to the database.
+- You can open the database and view the table list to see if the user is there with his new CPR number.
        
